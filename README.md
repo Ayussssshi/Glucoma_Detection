@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AyussssshiGlucoma_Detection.git
+   git clone https://github.com/Ayussssshi/Glucoma_Detection.git
 
 2. **To run this peoject:**
    change the dataset path where you saved the data(which i given in this)
